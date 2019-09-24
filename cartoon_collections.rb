@@ -2,8 +2,8 @@ def roll_call_dwarves(array)
   array.each{|i| puts i}
 end
 
-def summon_captain_planet# code an argument here
-  # Your code here
+def summon_captain_planet(arr)# code an argument here
+ arr.collect{|x| x.capi # Your code here
 end
 
 def long_planeteer_calls# code an argument here
