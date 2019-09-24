@@ -7,7 +7,7 @@ def summon_captain_planet(arr)# code an argument here
 end
 
 def long_planeteer_calls(arry)# code an argument here
-  # Your code here
+ arry.collect{|i| return true if i>4 } # Your code here
 end
 
 def find_the_cheese# code an argument here
